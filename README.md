@@ -17,7 +17,8 @@
 <img width="869" alt="Screenshot 2020-05-10 at 7 03 21 PM" src="https://user-images.githubusercontent.com/30646609/81500631-0791f100-92f1-11ea-8787-004a0b9ba7c6.png">
 
 ### Service Workers Life Cycle [Should add servcie-worker-file in root]
-#### Why we add root this service worker we contorl all the files from this postion
+#### Why we add this service worker in root?
+##### Ans: we can contorl all the files from this root postion
 <img width="869" alt="Screenshot 2020-05-10 at 7 10 08 PM" src="https://user-images.githubusercontent.com/30646609/81500771-f2699200-92f1-11ea-8359-9e413b6abee8.png">
 
 
