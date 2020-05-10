@@ -21,4 +21,7 @@
 ##### Ans: we can contorl all the files from this root postion
 <img width="869" alt="Screenshot 2020-05-10 at 7 10 08 PM" src="https://user-images.githubusercontent.com/30646609/81500771-f2699200-92f1-11ea-8359-9e413b6abee8.png">
 
+### Life Cycle One
+<img width="869" alt="Screenshot 2020-05-10 at 7 20 50 PM" src="https://user-images.githubusercontent.com/30646609/81501007-740def80-92f3-11ea-8243-7983921ecb87.png">
+
 
